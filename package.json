@@ -1,10 +1,10 @@
 {
   "name": "db-migrate-plugin-typescript",
   "version": "1.0.1",
-  "description": "A db-migrate plugin to enable Typescript style migrations.",
+  "description": "A db-migrate plugin to enable TypeScript style migrations.",
   "main": "index.js",
   "dependencies": {
-    "ts-node": "^1.3.0"
+    "ts-node": "^3.0.2"
   },
   "devDependencies": {},
   "scripts": {

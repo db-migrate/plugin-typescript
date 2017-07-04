@@ -1,2 +1,2 @@
 # plugin-typescript
-A typescript plugin for db-migrate.
+A TypeScript plugin for db-migrate.
