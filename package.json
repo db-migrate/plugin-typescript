@@ -1,6 +1,6 @@
 {
   "name": "db-migrate-plugin-typescript",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A db-migrate plugin to enable TypeScript style migrations.",
   "main": "index.js",
   "peerDependencies": {
