@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "A db-migrate plugin to enable TypeScript style migrations.",
   "main": "index.js",
-  "dependencies": {
+  "peerDependencies": {
     "ts-node": "^3.3.0"
   },
   "devDependencies": {},
