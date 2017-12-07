@@ -6,6 +6,8 @@ A TypeScript plugin for db-migrate.
 Usage is very simple. Simply install this plugin via `npm install db-migrate-plugin-typescript`
 or if using yarn: `yarn add db-migrate-plugin-typescript` 
 
+This plugin has a peer dependency on ts-node as well. So you will need to install that as a dependency or dev-dependency as well, `npm install ts-node` or `yarn add ts-node` if using yarn.
+
 The plugin will automatically resolve and compile any `.ts` files in your migrations directory,
 using your regular `tsconfig.json`
 
